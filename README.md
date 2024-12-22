@@ -1,4 +1,4 @@
-# Satvik's Walmart-Sales-Dashboard.
+# Ankit's Walmart-Sales-Dashboard.
 
 ## Problem Statement
 
